@@ -20,7 +20,7 @@
 
   ![Snake animation](https://github.com/elioferreira/elioferreira/blob/output/github-contribution-grid-snake.svg)
 
-<div align="left"  
+<div align="left">
      
   #### As metas para este ano são:
   - 🔥 Aprender ou melhorar o conhecimento em idiomas. Inglês 🇬🇧󠁧󠁢 Francês 🇫🇷
