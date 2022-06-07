@@ -4,7 +4,7 @@
   ### ⚙️ Sou acadêmico de **Análise  e Desenvolvimento de Sistemas pela ULBRA.** 
   <a href="https://github.com/elioferreira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=elioferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elioferreira&layout=compact&langs_count=7&theme=dark"/>
 
   ### 🔥 **Linguagens de programação** com as quais conheço/trabalhei:
   <code> <img height="44" src="https://user-images.githubusercontent.com/101156218/164949594-798025ed-50c1-4b4a-a2f1-5bad4df3bc91.png" alt="C++"/></code>
