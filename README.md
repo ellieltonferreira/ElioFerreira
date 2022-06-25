@@ -1,8 +1,5 @@
 <div align="center">
   
-   <img align="right" alt="Logo La Salle" height="100" style="border-radius:150px;" src="https://user-images.githubusercontent.com/105839909/175757962-88e57425-8b15-40d5-a3e2-185bbed7556f.png">
-
-  
   ## ✌🏼 Eai, tudo bem?  Eu sou o **Elielton** **Ferreira.** 
   ### ⚙️ Sou acadêmico de **Análise  e Desenvolvimento de Sistemas pela UniLaSalle.**   
   
