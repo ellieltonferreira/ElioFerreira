@@ -1,9 +1,10 @@
-<div align="center">
+
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+Meu nome é Elielton. Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade La Salle. Faço parte do DIO Campus Expert, onde busco ser refêrencia em tecnologia em minha comunidade acadêmica. 
+
   
-  ## ✌🏼 Eai, tudo bem?  Eu sou o **Elielton** **Ferreira.** 
-  ### ⚙️ Sou acadêmico de **Análise e Desenvolvimento de Sistemas pela Universidade La Salle.**   
-  
-  <a href="https://github.com/elioferreira">
+  <a href="https://github.com/ellieltonferreira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=elioferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elioferreira&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -23,7 +24,7 @@
   <a href="https://www.linkedin.com/in/elielton-ferreira-192084210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:elieltonferreirahf@outlook.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
-  ![Snake animation](https://github.com/elioferreira/elioferreira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ellieltonferreira/ellieltonferreira/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div align="left">
